@@ -230,7 +230,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# 특정 확장자 제외
 *.txt
+calc.py
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,jupyternotebooks,python
 
