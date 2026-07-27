@@ -1,2 +1,2 @@
 print("hello")
-print("수정")
+print("수정2")
